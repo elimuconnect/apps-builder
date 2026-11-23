@@ -1,0 +1,7 @@
+Source directory copied from uploaded ZIP: ELIMU-CONNECT--main
+HTML pages: 260
+Files: 296
+First-party links rewritten to local pages: 1000+
+Three additional entry-page aliases mapped to supplied pages.
+First-party links still unmatched across the site: 48 (includes missing source pages and other repository paths).
+App start page: appaccessdaily.html
